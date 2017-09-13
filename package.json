@@ -8,6 +8,7 @@
 	},
 	"dependencies": {
 		"react": "16.0.0-alpha.12",
+		"react-actioncable-provider": "^1.0.0",
 		"react-native": "0.48.3",
 		"react-native-actioncable": "^0.0.3"
 	},
