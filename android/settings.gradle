@@ -1,0 +1,3 @@
+rootProject.name = 'TestRNActionCable'
+
+include ':app'
